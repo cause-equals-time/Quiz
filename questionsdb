@@ -1,0 +1,19 @@
+General Java Questions
+How many keywords does Java have?
+What is multi-threading?30
+what is inheritance?
+What is an abstract class?
+What is a constructor?
+What does the keyword static do?
+What is a singleton class?
+What does the transient keyword do? 20
+What are Java primitive types? 20
+What is method overriding?20
+What is method overloading? 20
+Is it possible to have a method receive an indefinite number of arguments?
+Is stringbuilder thread safe?
+Which one is faster, stringbuilder or stringbuffer?
+What is a lambda expression? 20
+what is an interface?
+Can an abstract class have non-abstract methods?
+Can an abstract class be instantiated?
